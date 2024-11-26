@@ -13,10 +13,10 @@ public class GameManager : MonoBehaviour
     public bool isGameActive = false;
     private float xRange = 22;
     private float zRange = 20;
-    private float spawnRate = 2.5f;
+    public float spawnRate = 2.5f;
     
     // Start is called before the first frame update
-    public void StartBtn()
+    public virtual void StartBtn()
     {
         isGameActive = true;
         startScreen.SetActive(false);
