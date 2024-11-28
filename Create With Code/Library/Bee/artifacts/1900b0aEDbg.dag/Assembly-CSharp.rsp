@@ -366,13 +366,17 @@
 "Assets/Scripts/DestroyOutOfBound.cs"
 "Assets/Scripts/DetectCollision.cs"
 "Assets/Scripts/FarmerController.cs"
+"Assets/Scripts/FollowPlayer.cs"
 "Assets/Scripts/GameInput.cs"
 "Assets/Scripts/GameManager.cs"
 "Assets/Scripts/JumperController.cs"
 "Assets/Scripts/MoveForward.cs"
 "Assets/Scripts/MoveLeft.cs"
 "Assets/Scripts/PlayerController.cs"
+"Assets/Scripts/Prototype4GameManager.cs"
 "Assets/Scripts/PrototypeGameManager.cs"
+"Assets/Scripts/RotateCamera.cs"
+"Assets/Scripts/RotationController.cs"
 -langversion:9.0
 
 /deterministic
