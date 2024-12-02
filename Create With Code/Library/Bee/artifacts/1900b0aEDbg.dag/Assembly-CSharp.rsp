@@ -379,6 +379,7 @@
 "Assets/Scripts/PrototypeGameManager.cs"
 "Assets/Scripts/RotateCamera.cs"
 "Assets/Scripts/RotationController.cs"
+"Assets/Scripts/SceneSelection.cs"
 "Assets/Scripts/Target.cs"
 -langversion:9.0
 
